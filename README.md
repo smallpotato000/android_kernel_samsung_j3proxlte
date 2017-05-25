@@ -1,5 +1,5 @@
 # android_kernel_samsung_j3proxlte
-*How to Build
+* How to Build
 *	get Toolchain from android git server , codesourcery and etc .. i.e.arm-eabi-4.8	
 *	set environment variables:
 *		$ export CROSS_COMPILE= $(android platform directory you download)/android/gcc/prebuilts/linux-x86/arm/arm-eabi-4.8/bin/arm-eabi-
