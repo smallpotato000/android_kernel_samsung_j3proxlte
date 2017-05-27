@@ -20,4 +20,7 @@
 *		$ cd output
 		$ make clean
 * How to generate image
-	Refer to https://github.com/xiaolu/mkbootimg_tools
+* 	Refer to https://github.com/xiaolu/mkbootimg_tools
+
+# WARNING
+* This kernel can boot recovery (TWRP) but not system. It hangs on the boot screen (samsung logo).
